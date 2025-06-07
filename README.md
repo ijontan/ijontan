@@ -5,8 +5,7 @@ I am Ijon Tan,I am currently a student in 42KL. I am a tech enthusiast & a self 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ijontan" alt="ijontan" /> </p>
 
 - I’m currently learning c/c++ **
-- I’m looking to collaborate on Web & App Development Related Projects **
-- I’m looking for help with nothing at the time **
+- I’m looking for job that is technically challenging**
 - Fun fact: I love code in my free time & playing video games.
 
 <p align="center">
